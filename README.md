@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Medi_to_Info
+# Media_to_Info
 
 Building AI course project - Extract textual information from spoken or visual media
 
